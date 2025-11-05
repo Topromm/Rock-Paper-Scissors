@@ -55,7 +55,3 @@ Feel free to fork this repository and make improvements! Some ideas for enhancem
 - Implement high score tracking
 - Add ASCII art for moves
 - Create a GUI version
-
-## License
-
-© Copyright 2025 Topromm.
