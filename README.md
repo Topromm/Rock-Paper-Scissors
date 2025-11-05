@@ -1,4 +1,4 @@
-# Command-Line Rock-Paper-Scissors Game
+# Rock-Paper-Scissors Game
 
 A simple, interactive command line implementation of the classic Rock-Paper-Scissors game written in Java. Play against the computer, track your wins/losses/ties, and enjoy the classic hand game right from your terminal!
 
